@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1001,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 9,
+    "publicReview": "James was respectful and quiet. Left the place in great shape!",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 9 },
+      { "category": "communication", "rating": 8 },
+      { "category": "respect_house_rules", "rating": 10 }
+    ],
+    "submittedAt": "2021-01-12 14:23:00",
+    "guestName": "James Wilson",
+    "listingName": "Seaside Cottage - Brighton",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 1002,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 6,
+    "publicReview": "Nice location, but the apartment wasn’t very clean on arrival.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 5 },
+      { "category": "communication", "rating": 7 },
+      { "category": "respect_house_rules", "rating": 6 }
+    ],
+    "submittedAt": "2021-02-03 19:10:00",
+    "guestName": "Emily Carter",
+    "listingName": "Seaside Cottage - Brighton",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 1003,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 8,
+    "publicReview": "Friendly guest, but a bit noisy during late hours.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 9 },
+      { "category": "respect_house_rules", "rating": 7 }
+    ],
+    "submittedAt": "2021-03-20 11:45:00",
+    "guestName": "Sophia Martinez",
+    "listingName": "Seaside Cottage - Brighton",
+    "channel": "Vrbo"
+  },
+  {
+    "id": 1004,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 10,
+    "publicReview": "Absolutely amazing! Spotlessly clean and fantastic host.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "respect_house_rules", "rating": 10 }
+    ],
+    "submittedAt": "2021-04-15 08:30:00",
+    "guestName": "Daniel Kim",
+    "listingName": "Seaside Cottage - Brighton",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 1005,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 7,
+    "publicReview": "Guest was polite but left dishes unwashed.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 6 },
+      { "category": "communication", "rating": 8 },
+      { "category": "respect_house_rules", "rating": 7 }
+    ],
+    "submittedAt": "2021-05-07 21:15:00",
+    "guestName": "Olivia Brown",
+    "listingName": "Seaside Cottage - Brighton",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 1006,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8,
+    "publicReview": "Great place to stay! WiFi could be faster though.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 9 },
+      { "category": "communication", "rating": 8 },
+      { "category": "respect_house_rules", "rating": 8 }
+    ],
+    "submittedAt": "2021-06-01 12:50:00",
+    "guestName": "Lucas White",
+    "listingName": "Modern Apartment - Rome",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 1007,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 10,
+    "publicReview": "Sarah was a fantastic guest! Left the flat spotless.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "respect_house_rules", "rating": 10 }
+    ],
+    "submittedAt": "2021-07-18 09:00:00",
+    "guestName": "Sarah Thompson",
+    "listingName": "Charming House - Edinburgh",
+    "channel": "Vrbo"
+  },
+  {
+    "id": 1008,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Not as described. Noisy street and broken air conditioning.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 6 },
+      { "category": "communication", "rating": 5 },
+      { "category": "respect_house_rules", "rating": 5 }
+    ],
+    "submittedAt": "2021-08-22 22:10:00",
+    "guestName": "Mark Evans",
+    "listingName": "Downtown Loft - New York",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 1009,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 9,
+    "publicReview": "Great communication, respectful and tidy guest.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 9 },
+      { "category": "communication", "rating": 10 },
+      { "category": "respect_house_rules", "rating": 9 }
+    ],
+    "submittedAt": "2021-09-14 18:40:00",
+    "guestName": "Anna Lee",
+    "listingName": "Beachfront Bungalow - Malibu",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 1010,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 7,
+    "publicReview": "Nice host, but the check-in process was confusing.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 7 },
+      { "category": "communication", "rating": 6 },
+      { "category": "respect_house_rules", "rating": 8 }
+    ],
+    "submittedAt": "2021-10-05 16:25:00",
+    "guestName": "David Miller",
+    "listingName": "Rustic Cabin - Colorado",
+    "channel": "Vrbo"
+  }
+]

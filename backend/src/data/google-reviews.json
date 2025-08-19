@@ -1,0 +1,20 @@
+[
+  {
+    "author_name": "John Doe",
+    "rating": 5,
+    "text": "Amazing place, very clean and great location!",
+    "time": "2025-08-01T14:25:00Z"
+  },
+  {
+    "author_name": "Sarah Smith",
+    "rating": 4,
+    "text": "Overall good, but Wi-Fi was slow.",
+    "time": "2025-07-29T11:45:00Z"
+  },
+  {
+    "author_name": "Ali Ben Salah",
+    "rating": 3,
+    "text": "Average stay, could improve cleanliness.",
+    "time": "2025-07-20T09:30:00Z"
+  }
+]
